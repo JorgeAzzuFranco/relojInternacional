@@ -53,6 +53,7 @@
             android:layout_width="2dp"
             android:layout_height="match_parent"
             android:background="#000"
+            android:layout_marginRight="4dp"
             />
 
         <TextView
@@ -81,6 +82,7 @@
             android:layout_width="2dp"
             android:layout_height="match_parent"
             android:background="#000"
+            android:layout_marginRight="4dp"
             />
 
         <TextView
@@ -109,6 +111,7 @@
             android:layout_width="2dp"
             android:layout_height="match_parent"
             android:background="#000"
+            android:layout_marginRight="4dp"
             />
 
         <TextView
